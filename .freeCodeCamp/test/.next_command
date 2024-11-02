@@ -429,3 +429,8 @@ git log --oneline
 git diff
 git add number_guess.sh
 git commit -m "fix: move prompt for asking user guess number out of the loop"
+./number_guess.sh
+__vsc_prompt_cmd_original
+__vsc_prompt_cmd_original
+pg_dump -cC --inserts -U freecodecamp
+pg_dump -cC --inserts -U freecodecamp number_guess > number_guess.sql
