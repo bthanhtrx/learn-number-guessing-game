@@ -434,3 +434,6 @@ __vsc_prompt_cmd_original
 __vsc_prompt_cmd_original
 pg_dump -cC --inserts -U freecodecamp
 pg_dump -cC --inserts -U freecodecamp number_guess > number_guess.sql
+cd ..
+git status
+git add .
